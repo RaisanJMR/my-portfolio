@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Nunito', sans-serif;
+  width: 80%;
+  margin: 1rem auto;
+}
+a {
+  text-decoration: none;
+  color: #ff0a54;
+}
+.top-header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #333;
+}
+body > div {
+  margin: 20px 0;
+}
+h2 {
+  margin: 10px 0;
+  color: #0d47a1;
+}
+h4 {
+  margin: 10px 0;
+}
+.top-title {
+  color: #ff0a54;
+}
